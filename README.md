@@ -1,8 +1,8 @@
 E-Commerce Sales Analytics Project
 SQL JOINs & Window Functions Implementation
-Student: [Your Name]
-Student ID: [Your ID]
-Group: [Your Group]
+Student:cyomoro ngabo paulin
+Student ID:28882
+Group: D
 Course: Database Development with PL/SQL (INSY 8311)
 Instructor: Eric Maniraguha
 
