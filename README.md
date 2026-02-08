@@ -1,6 +1,6 @@
 E-Commerce Sales Analytics Project
 SQL JOINs & Window Functions Implementation
-Student:cyomoro ngabo paulin
+Student:Cyomoro Ngabo Paulin
 Student ID:28882
 Group: D
 Course: Database Development with PL/SQL (INSY 8311)
